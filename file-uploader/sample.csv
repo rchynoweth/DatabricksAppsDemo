@@ -1,0 +1,11 @@
+id,name,department,salary,start_date,active
+1,John Smith,Engineering,95000,2020-03-15,True
+2,Sarah Johnson,Finance,87000,2019-07-10,True
+3,Michael Lee,Sales,76000,2021-02-01,True
+4,Emily Davis,Engineering,99000,2018-11-23,False
+5,David Wilson,Marketing,83000,2020-05-30,True
+6,Linda Brown,Finance,91000,2017-09-17,True
+7,James Taylor,Engineering,102000,2019-01-08,True
+8,Patricia Moore,Sales,72000,2022-04-20,True
+9,Robert Anderson,Marketing,85000,2021-06-11,False
+10,Mary Thomas,Engineering,97000,2018-12-05,True
